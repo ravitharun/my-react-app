@@ -20,7 +20,9 @@
     "react-router-dom": "^6.26.1",
     "react-skills": "^1.27.0",
     "react-slideshow-image": "^4.3.1",
-    "react-type-animation": "^3.2.0"
+    "react-type-animation": "^3.2.0",
+    "react-icons": "^4.3.1",
+    "react-vertical-timeline-component": "^2.0.0" 
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
