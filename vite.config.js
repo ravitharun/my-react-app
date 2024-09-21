@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-icons/fa'] // Make sure this line has proper syntax
+      external: ['react-icons/fa', 'react-vertical-timeline-component'] // Add the new external dependency here
     }
-  } // Check if this closing brace is correctly placed
+  }
 });
