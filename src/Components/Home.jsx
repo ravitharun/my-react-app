@@ -113,7 +113,7 @@ function Home() {
             style={{ flex: 1, textAlign: "center" }}
           >
             <img
-              src="/public/Myimage.jpg"
+              src="/Myimage.jpg"
               className="shadow"
               alt="Portfolio Banner"
               style={{
