@@ -12,6 +12,7 @@ function Home() {
     gap: "20px", // Add gap between icons
   };
 
+
   const iconStyle = {
     background: "blue",
     fontSize: "24px",
@@ -22,8 +23,6 @@ function Home() {
   return (
     <>
       <Navbar />
-
-      {/* Hero Section */}
       <div
         className="hero-section"
         style={{
@@ -98,7 +97,7 @@ function Home() {
                 style={{ fontSize: "2em", display: "inline-block" }}
               />
             </p>
-            <Link to="/portfolio/resume">
+            <Link to="Users/Dell/Downloads/resume.pdf">
               <button className="btn btn-primary">View My Resume</button>
             </Link>
           </div>
